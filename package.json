@@ -43,7 +43,9 @@
       "@vue/airbnb"
     ],
     "rules": {
-      "quote-props": ["always"]
+      "quote-props": [
+        "always"
+      ]
     },
     "parserOptions": {
       "parser": "babel-eslint"
